@@ -1,0 +1,61 @@
+body {
+    background-color: #557B83;
+    font-family: Roboto, serif;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+    background-color: #39AEA9;
+    padding: 5px;
+}
+
+.item p {
+    display: inline-block;
+    color: white;
+}
+
+.hobbies {
+    color: white;
+}
+
+.value {
+    width: 50%;
+    text-align: right;
+}
+
+.name {
+    width: 50%;
+    text-align: left;
+}
+
+.profile-icon {
+    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+}
+
+hr {
+    background-color: #557B83;
+}
+
+.music {
+    list-style-image: url("images/headphones.png");
+}
+
+.movies {
+    list-style-image: url("images/movies.png");
+}
+
+.videogame {
+    list-style-image: url("images/videogame.png");
+}
